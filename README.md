@@ -1,7 +1,7 @@
 # Galvani_Portfolio
 Data Science portfolio
 
-# [Project 1: Análise Estatística de variáveis de consumo] (https://github.com/G4lvi/DS_e-commerce_R_proj)
+# [Project 1: Análise Estatística de variáveis de consumo](https://github.com/G4lvi/DS_e-commerce_R_proj)
 - Análise exploratória;
 - Teste de hipóteses;
 - Correlação e regressão.
