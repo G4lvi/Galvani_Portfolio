@@ -18,3 +18,15 @@ Data Science portfolio
 - Renda Mensal (variável contínua medida em reais) – Nos informa a renda mensal
 do cliente;
 - Possui Imóvel Próprio (variável categórica com dois níveis) – Nos informa se cliente possui imóvel próprio ou não.
+
+![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/histogram_dados_consumo.png)
+
+![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/boxplot_consumo.png)
+
+![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/boxplot_consumo_imoveis_proprio.png)
+
+![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/tabela_contingencia.png)
+
+![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/ggplot_consumo_idade.png)
+
+![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/ggplot_consumo_idade.png)
