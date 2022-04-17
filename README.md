@@ -28,5 +28,3 @@ do cliente;
 ![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/tabela_contingencia.png)
 
 ![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/ggplot_consumo_idade.png)
-
-![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/ggplot_consumo_idade.png)
