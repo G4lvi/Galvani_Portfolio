@@ -19,12 +19,12 @@ Data Science portfolio
 do cliente;
 - Possui Imóvel Próprio (variável categórica com dois níveis) – Nos informa se cliente possui imóvel próprio ou não.
 
-![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/histogram_dados_consumo.png)
+![](/images/histogram_dados_consumo.png)
 
-![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/boxplot_consumo.png)
+![](/images/boxplot_consumo.png)
 
-![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/boxplot_consumo_imoveis_proprio.png)
+![](/images/boxplot_consumo_imoveis_proprio.png)
 
-![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/tabela_contingencia.png)
+![](/images/tabela_contingencia.png)
 
-![](https://github.com/G4lvi/Galvani_Portfolio/blob/main/images/ggplot_consumo_idade.png)
+![](/images/ggplot_consumo_idade.png)
